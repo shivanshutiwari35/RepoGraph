@@ -94,12 +94,12 @@ Parser Engine (AST/Tree-sitter)
 Knowledge Graph (NetworkX) ───► Interactive Dependency Explorer (React Flow)
         │
         ▼
-Decision Router (Gemini)
+Decision Router
         │ (Needs Clarification?)
         ├───► User Clarification (UI Form)
         │
         ▼
-Planning Engine (Gemini)
+Planning Engine
         │
         ▼
 Engineering Plan Report
