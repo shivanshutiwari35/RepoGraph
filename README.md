@@ -1,7 +1,26 @@
-# RepoScope — AI Repository Planning Engine
+# RepoScope
 
-> **Repository Intelligence for Engineering Planning**
-> An experimental system that builds a structured understanding of a codebase statically and uses it to generate reliable, hallucination-free engineering plans for architectural changes.
+> **Built to understand how structured repository representations can improve engineering planning.**
+> Experimental exploration into repository-aware engineering planning.
+
+## Inspiration
+
+Modern software engineering increasingly requires repository-level reasoning instead of file-level reasoning. This project explores one possible implementation of repository-aware planning as a learning exercise.
+
+---
+
+## Current Limitations
+
+- Single repository only
+- Static analysis only
+- No incremental indexing
+- No organizational context
+- No Jira
+- No Slack
+- No Confluence
+- No runtime telemetry
+- No production logs
+- No ownership graph
 
 ---
 
